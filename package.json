@@ -1,7 +1,8 @@
 {
   "name": "primeiro-teste-playwright",
   "version": "1.0.0",
-  "description": "Atividade 2 - Estrutura Base e Primeiro Teste Playwright com TypeScript",
+  "type": "module",
+  "description": "Estrutura Base e Primeiro Teste Playwright com TypeScript",
   "main": "index.js",
   "scripts": {
     "test": "playwright test",
