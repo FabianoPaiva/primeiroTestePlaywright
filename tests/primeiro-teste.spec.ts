@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test.describe('Atividade 2 - Estrutura Base e Primeiro Teste', () => {
+test.describe('Estrutura Base e Primeiro Teste Playwright com TypeScript', () => {
   
   test('Deve navegar para a página alvo e validar a visibilidade de um elemento', async ({ page }) => {
     // 1. Navegação para a URL desejada (utilizando o example.com como base pública e estável)
